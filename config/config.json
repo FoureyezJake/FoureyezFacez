@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9d6A1319440D06Ded16eD0BEBA8150D75caC0D45",
+  "SCAN_LINK": "https://polygonscan.com/address/0x9d6a1319440d06ded16ed0beba8150d75cac0d45",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "FOUREYEZ Collective: Facez",
+  "SYMBOL": "FCF",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/foureyez-collective-facez",
+  "SHOW_BACKGROUND": true
+}
